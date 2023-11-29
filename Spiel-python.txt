@@ -1,0 +1,19 @@
+Python pygame spiel
+
+ich mach ein Dame(checkers) spiel.
+
+die arbeitschritte sind folgendes.
+
+1. Meine eigene figuren machen. 22.11.2023
+
+2. Spiel zum laufen zu bringen(Programmieren).
+   -Spieleregel 
+   -Spielefeld machen. 22.11.2023
+   -Figuren auf dem spielfeld machen. 22.11.2023
+   -Figuren bewegen. 29.11.2023
+   -bewegungsmuster machen. 29.11.2023
+   -gegen spieler analysieren(figuren) da drüber springen und Eliminieren lassen. 6.12.2023
+   -Spielerwechsel. 6.12.2023
+   -Animation(smooth bewegen können). (Unbekannt)
+   -vlt KI spieler.
+5. soll funktionieren.
